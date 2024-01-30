@@ -18,7 +18,7 @@
 
 <main>
   <section class="profile-section">
-    <img src="ruta/a/tu/logo.png" alt="Logo de Perfil" />
+    <img src="https://www.bing.com/images/search?view=detailV2&ccid=RP6q%2fIch&id=AAB9F6A75A16C3066AD7A3667E4F2FB3265BF070&thid=OIP.RP6q_IchUHbl6131Mo04pQHaHa&mediaurl=https%3a%2f%2fwww.asofiduciarias.org.co%2fwp-content%2fuploads%2f2018%2f06%2fsin-foto.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.44feaafc87215076e5eb5df5328d38a5%3frik%3dcPBbJrMvT35mow%26pid%3dImgRaw%26r%3d0&exph=510&expw=510&q=imagen+de+perfil+sin+foto&simid=608000922578929465&FORM=IRPRST&ck=EDD95CED6C9FCB7FF56CD478FAF33E37&selectedIndex=2&itb=0" alt="Logo de Perfil" />
     <div>
       <h2>{name}</h2>
       <p>{title}</p>
