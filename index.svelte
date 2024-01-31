@@ -1,5 +1,5 @@
 <script>
-  let name = "John Doe";
+  let name = "Jorhany";
   let title = "Web Developer";
   let skills = ["HTML", "CSS", "JavaScript"];
 
